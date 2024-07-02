@@ -1,0 +1,2 @@
+# Data-Mining-
+KMEANS, CART, ANN, RANDOM FOREST
